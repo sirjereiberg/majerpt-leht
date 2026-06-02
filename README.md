@@ -1,2 +1,2 @@
-# majerpt-leht
+# majerpt
 Website
